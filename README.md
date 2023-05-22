@@ -1,1 +1,5 @@
 # TodoAppRedux
+
+
+Technical:
+Redux Toolkit
