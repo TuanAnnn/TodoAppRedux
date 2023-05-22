@@ -66,7 +66,7 @@ const TodoHeader = () => {
         style={{ marginTop: 32 }}
         keyExtractor={(item) => item.id}
       ></FlatList>
-      <View style={{ position: "absolute", top: 550 }}>
+      <View style={{ position: "absolute", top: 500 }}>
         <Addtodo></Addtodo>
       </View>
     </View>
